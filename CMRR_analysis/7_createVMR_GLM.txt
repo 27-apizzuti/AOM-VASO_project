@@ -1,0 +1,23 @@
+In BrainVoyager
+1. Load as .nii _undist_warp_resl_slab.nii from func/loc01/BV_GLM --> opened as .fmr
+2. Doc. prop > Options > flip vertically
+3. Doc. prop > Apply protocol .. > save .fmr
+4. Options > Convert FMR/DMR to identical VTC/VDW... (create .vmr)
+VMR
+5. Doc. prop > Native space
+6. Save as... .VMR
+VTC
+7. Doc. prop > Native space
+
+Close all.
+
+--- Anatomy warped and resliced in the func. AOM space
+8. Load as .nii _ss_warp_resl_slab --> opened as .vmr
+9. Apply .v16 and Save as... 
+10. Doc. prop > Reframe to 256x256x256 as localizer .vmr/.vtc
+11. Put to zero the offset > save .vmr adding _reframe256.vmr in the folder: func/loc01/BV_GLM
+12. Link .vtc
+---
+
+Run the GLM
+Options > Convert maps to Cluster VOI > Create one voi for active voxels (2nd option)

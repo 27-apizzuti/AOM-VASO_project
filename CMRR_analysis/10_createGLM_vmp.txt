@@ -1,0 +1,5 @@
+After running 9_loadGLM_Localizer.py in BrainVoyager
+
+1. Analysis > Overlay General Linear Model > Load sub-00_loc.glm
+2. Create the contrast: Central > Static and save it "Contrast_1vmp_Localizer.ctr"
+3. Analysis > Overlay Volume Maps (fdr=0001 and cluster size 500) and save it "sub-00_clust500_fdr0001.vmp"

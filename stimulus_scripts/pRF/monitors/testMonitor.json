@@ -1,0 +1,46 @@
+{
+  "2021_02_11 17:12": {
+    "calibDate": 1618237512.0,
+    "gamma": null,
+    "width": 30.0,
+    "distance": 99.0,
+    "notes": null,
+    "psychopyVersion": "2020.2.5",
+    "usebits": false,
+    "gammaGrid": {
+      "__ndarray__": [
+        [
+          0.0,
+          1.0,
+          1.0
+        ],
+        [
+          0.0,
+          1.0,
+          1.0
+        ],
+        [
+          0.0,
+          1.0,
+          1.0
+        ],
+        [
+          0.0,
+          1.0,
+          1.0
+        ]
+      ],
+      "dtype": "float64",
+      "shape": [
+        4,
+        3
+      ],
+      "Corder": true
+    },
+    "linearizeMethod": 1,
+    "sizePix": [
+      1920,
+      1200
+    ]
+  }
+}

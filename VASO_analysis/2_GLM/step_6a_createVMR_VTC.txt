@@ -1,0 +1,12 @@
+In BrainVoyager
+1. Load BOLD_interp_NeuroElf.fmr or VASO_interp_LN_NeuroElf.fmr
+2. Doc. prop > Options > flip vertically
+3. Doc. prop > Apply protocol .. > save .fmr
+4. Options > Convert FMR/DMR to identical VTC/VDW... (create .vmr)
+VMR
+5. Doc. prop > Native space
+6. Save as... .VMR
+VTC
+7. Doc. prop > Native space
+
+Close all.

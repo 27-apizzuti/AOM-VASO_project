@@ -1,0 +1,3 @@
+In BrainVoyager 
+1. COPE plugin to do "geometric distorsion correction".
+2. Export the _undist.fmr as nifti

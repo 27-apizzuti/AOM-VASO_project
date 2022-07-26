@@ -1,0 +1,7 @@
+1_From_IMA_to_DICOM.txt
+2_allocate_DICOM_.py
+3_dicom_to_nifti_conversion.py
+4_rename_nifti_to_bids.py
+5_createFMR.py
+5_createFMR.pyc
+sorted_file_list.txt

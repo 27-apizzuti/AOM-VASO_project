@@ -1,0 +1,9 @@
+Localizer
+Before computing the manual registration in ITK we need to create the "source" file
+1. Export the .fmr as nifti in BrainVoyager
+2. Compute t-mean operation [3_tmean_FSL in AOM-prject/CMRR_analysis]
+
+In ITK-SNAP:
+1. manual registration 
+2. automatic affine registration (Coars x2, Fine x1)
+3. Save initial_matrix_ITK.txt in func/alignment_ANTs folder

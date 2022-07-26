@@ -1,0 +1,1 @@
+LN2_UVD_FILTER -values sub-02_UV_coordinates_hexbins0.5_random.nii.gz -coord_uv sub-02_UV_coordinates.nii -coord_d sub-02_seg_rim_4_9_metric_equivol.nii -domain sub-02_perimeter_chunk_boundary_masked_c100_bin_masked_BOLDmask.nii.gz -radius 0.6 -height 2 -columns
