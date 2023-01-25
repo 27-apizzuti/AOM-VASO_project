@@ -1,7 +1,25 @@
-Axis of Motion stimulus examples
+# Mapping Axis of Motion-stimulus examples
 
-## Vertical
-<img src="Vertical.gif" width=400 />
+## Axes of motions:
 
-## Horizontal
-<img src="Horizontal.gif" width=400 />
+**Vertical**
+
+<img src="Vertical.gif" width=200 />
+
+**Horizontal**
+
+<img src="Horizontal.gif" width=200 />
+
+**Diagonal**
+
+<img src="Diag45.gif" width=200 />
+
+**Horizontal**
+
+<img src="Diag135.gif" width=200 />
+
+## Control condition: Flickering dots
+
+**Flickering**
+
+<img src="Flickering.gif" width=200 />
