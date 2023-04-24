@@ -1,4 +1,6 @@
 # AOM-project
+[![DOI](https://zenodo.org/badge/518181325.svg)](https://zenodo.org/badge/latestdoi/518181325)
+
 This repository contains the analysis pipeline used for 7T fMRI for the mapping of axis of motion direction in (human) MT.
 
 # Core dependences
